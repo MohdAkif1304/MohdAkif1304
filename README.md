@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohdakif1304&label=Profile%20views&color=0e75b6&style=flat" alt="mohdakif1304" /> </p>
 
-- 🔭 I’m currently working on **My StartUp SwiftLee**
+- 🔭 I’m currently working on **HFT and Quantitative Finance**
 
 - 🌱 I’m currently learning **Computer Science & Engineering**
 
